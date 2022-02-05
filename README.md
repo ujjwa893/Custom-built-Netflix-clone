@@ -10,7 +10,6 @@ Built using REACT,HTML,CSS and JAVASCRIPT and the build was deployed using Fireb
 ![image](https://user-images.githubusercontent.com/82048242/140722280-0d666e0c-9db1-4c40-9e7b-0bd4556799df.png)
 ![image](https://user-images.githubusercontent.com/82048242/140722608-00825b3f-7643-4e91-8229-d2aa10bb841a.png)
 
-![image](https://user-images.githubusercontent.com/82048242/140722688-d042ea33-f71c-4f99-acca-4534bf5f708c.png)
-![image](https://user-images.githubusercontent.com/82048242/140722723-36fe17a5-1b6c-468b-b7c0-b03653f4fd86.png)
+
 
 
