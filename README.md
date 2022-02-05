@@ -1,8 +1,9 @@
 # Custom-built-Netflix-clone
+A netflix lookalike website using HTML,CSS,Javascript and React.
 
 Deployed version: https://netflix-clone-237fe.web.app/
 
-Built using REACT,CSS and JAVASCRIPT and the build was deployed using Firebase  this website has all the realisitic banners,movie thimbnails and trailers of various movies can be watched by clicking n the thumbnails.It has a navigation bar ,banner with all the description etc Do check it out!!
+Built using REACT,HTML,CSS and JAVASCRIPT and the build was deployed using Firebase  this website has all the realisitic banners,movie thimbnails and trailers of various movies can be watched by clicking n the thumbnails.It has a navigation bar ,banner with all the description etc Do check it out!!
 
 
 ![image](https://user-images.githubusercontent.com/82048242/140722190-7c301fb5-1a46-40b1-a242-b553e007e4d8.png)
